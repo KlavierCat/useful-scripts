@@ -1,3 +1,4 @@
+# A Python script to rename all files in one directory into lowercase
 import os
 
 path = os.getcwd()
