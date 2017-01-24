@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script downloads and saves files with an incremental number in the file names from the {baseUrl} every ${interval} seconds.
+# This Bash script downloads and saves files with an incremental number in the file names from the {baseUrl} every ${interval} seconds.
 # eg. download and save http://sample-url/song-01.ogg, http://<a-sample-url>/song-02.ogg, etc. every min. till it finishes downloading and saving http://sample-url/song-10.ogg.
 # to run this script, make the necessary changes to the variables etc, make this file executable, then type: sh ./download.sh
 
